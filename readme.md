@@ -30,7 +30,7 @@ The server-client system utilizes TCP for reliable command transmission. Command
 #### client
 ![](client.jpg)
 #### server 
-[from minute 1:30 ](video.webm)
+[from minute 1:30 ] [LInk](https://drive.google.com/file/d/1GysYF2xKUVPETWl0R22yKSpMChsJLbU6/view?usp=sharing)
 
 ### **Commands**
 
@@ -52,6 +52,7 @@ The server-client system utilizes TCP for reliable command transmission. Command
 
 ### This might help
 -https://www.geeksforgeeks.org/socket-programming-in-cpp/
+
 -https://www.geeksforgeeks.org/socket-programming-cc/
 
 
