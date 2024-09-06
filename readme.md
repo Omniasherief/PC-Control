@@ -27,9 +27,9 @@ The server-client system utilizes TCP for reliable command transmission. Command
 2. Input the server’s IP address and port number.
 3. Connect to the server (make sure the server is running).
 4. Send commands to control the server.
-#### client
+#### **client**
 ![](client.jpg)
-#### server 
+#### **server**
 [from minute 1:30 ] [LInk](https://drive.google.com/file/d/1GysYF2xKUVPETWl0R22yKSpMChsJLbU6/view?usp=sharing)
 
 ### **Commands**
